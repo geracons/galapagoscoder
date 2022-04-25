@@ -21,9 +21,8 @@ Queremos analizar, en base a los datos provistos por la fundación “Charles Da
 ## 3. Diagrama entidad - relación <br>
 <i> Diagrama entidad-relación de las tablas seleccionadas. </i> <br>
  Link al diagrama : <a href='https://drive.google.com/file/d/11sMcyxh5iNHtrlKof_97Amztoqxr6aU_/view?usp=sharing'> Diagrama </a>
-<div id='entidadRelacion'>
- <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVO6ADgHM=/?moveToViewport=-1879,-833,3222,1477" frameBorder="0" scrolling="no" allowFullScreen></iframe>
-</div>
+
+<img src='https://raw.githubusercontent.com/geracons/galapagoscoder/main/Entity%20Relationship%20Diagram%20(3).jpg'>
 
 <hr>
 
