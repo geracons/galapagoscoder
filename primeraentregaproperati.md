@@ -6,7 +6,7 @@ Link a la base:
 
 
 
-Integrantes del proyecto: Consiglio Gerardo, Burko Ivan, D'onofrio Gianluca.
+Integrantes del proyecto: Consiglio Gerardo, Burko Ivan
 <hr>
 
 ## 2. Temática elegida
